@@ -34,4 +34,3 @@ x = 18
 print(isinstance(x,int))
 print(isinstance(x,float))
 print(isinstance(x,str))
-
